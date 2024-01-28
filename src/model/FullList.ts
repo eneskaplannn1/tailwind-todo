@@ -1,4 +1,4 @@
-import ListItem from "../templates/ListTemplate";
+import ListItem from "./ListItem";
 
 interface List {
   list: ListItem[];
